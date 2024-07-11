@@ -1,6 +1,6 @@
-//! # My Crate
+//! # My Crate PipoAT
 //!
-//! `my_crate` is a collection of utilities to make performing certain
+//! `my_crate_PipoAT` is a collection of utilities to make performing certain
 //! calculations more convenient.
 /// Adds one to the number given.
 ///

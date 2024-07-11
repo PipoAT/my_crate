@@ -1,5 +1,5 @@
 [package]
-name = "my_crate"
+name = "my_crate_PipoAT"
 version = "0.1.0"
 edition = "2021"
 description = "An example crate from the official Rust Book/Documentation"

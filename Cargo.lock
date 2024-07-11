@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "my_crate"
+name = "my_crate_PipoAT"
 version = "0.1.0"
