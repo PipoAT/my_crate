@@ -1,0 +1,9 @@
+[package]
+name = "my_crate"
+version = "0.1.0"
+edition = "2021"
+description = "An example crate from the official Rust Book/Documentation"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+
